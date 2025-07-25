@@ -1,0 +1,1 @@
+# Detects loud moments and scene changes
